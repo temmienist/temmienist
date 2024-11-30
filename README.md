@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.imgur.com/xCFLcsv.gif"  />
+  <img height="350" src="https://i.redd.it/w2n81iqx37p51.gif"  />
 </div>
 
 ###
