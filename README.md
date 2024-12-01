@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I code in</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -35,5 +35,9 @@
 <div align="center">
   <img height="350" src="https://i.redd.it/pv8febdt1f691.gif"  />
 </div>
+
+###
+
+<h4 align="center">The rocks are quiet because the trees are listening</h4>
 
 ###
